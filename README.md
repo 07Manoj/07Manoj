@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @07Manoj and my Name is Manoj Sarma Yeddanapudi
-- 👀 I’m interested in ... Web Development and Cyber Security
-- 🌱 I’m currently learning ... Master's in Computer Science
+- 👀 I’m interested in  Web Development and Cyber Security
+- 🌱 I’m currently pursuing  Master's in Computer Science
 - 📫 How to reach me ... manoj8sarma@gmail.com
 
 <!---
