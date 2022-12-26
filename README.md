@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭 I’m a computer science graduate student passionate towards building secure Infrastructure & Networks. <br>👯 I’m looking to collaborate on any project related to Security & Networking<br>🌱 I’m currently learning Automation and Orchestration<br> 
+🔭 I’m a computer science graduate student passionate towards building secure Infrastructure & Networks. <br>👯 I’m looking to collaborate on any project related to Security & Networking<br>🌱 I’m currently learning Automation and Orchestration<br> 📩 You can reach me via LinkedIn or via email at manoj8sarma@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manojyeddanapudi) 
